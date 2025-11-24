@@ -4,9 +4,11 @@ Complete setup guide for getting started with Claude Code, including Zen MCP int
 
 ## 📚 Quick Start
 
-1. **Read the Setup Guide**: [CLAUDE_CODE_SETUP_GUIDE.md](CLAUDE_CODE_SETUP_GUIDE.md)
-2. **Get API Keys**: Contact me for the secure API keys link
-3. **Follow Security Best Practices**: [SECURE_SHARING_GUIDE.md](SECURE_SHARING_GUIDE.md)
+1. **Get Started in 15 Minutes**: [QUICK_START.md](QUICK_START.md) ⭐ **START HERE**
+2. **Verify Installation**: Run `./verify-install.sh` after setup
+3. **Get API Keys**: Contact me for the secure API keys link
+4. **Complete Documentation**: [CLAUDE_CODE_SETUP_GUIDE.md](CLAUDE_CODE_SETUP_GUIDE.md)
+5. **Emergency Help**: [EMERGENCY_PROCEDURES.md](EMERGENCY_PROCEDURES.md)
 
 ## 🚀 What's Included
 
@@ -19,10 +21,18 @@ Complete setup guide for getting started with Claude Code, including Zen MCP int
 
 ## 📖 Files
 
+### Getting Started
+- `QUICK_START.md` ⭐ - **Your first 15 minutes** (start here!)
+- `verify-install.sh` - Automated installation verification script
+
+### Complete Documentation
 - `CLAUDE_CODE_SETUP_GUIDE.md` - Complete setup instructions
 - `SECURE_SHARING_GUIDE.md` - How to securely share and install API keys
-- `SHARING_SUMMARY.md` - Quick reference for setup
 - `API_KEYS_TEMPLATE.env` - Template for API keys (placeholders only)
+
+### Reference & Safety
+- `EMERGENCY_PROCEDURES.md` - Security incidents and troubleshooting
+- `SHARING_SUMMARY.md` - Quick reference for setup
 
 ## 🔑 Getting API Keys
 
